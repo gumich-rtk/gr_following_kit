@@ -1,0 +1,5 @@
+python-can
+numpy
+scipy
+pyqt5
+pyqtgraph

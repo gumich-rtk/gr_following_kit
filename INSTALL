@@ -1,0 +1,12 @@
+Install Dependencies
+--------------------
+
+    apt install -y python3-pip
+    apt install -y python3-wrapt
+    pip3 install -r requirements.txt
+
+
+Run
+---
+
+    ./python/fk_viewer.py
